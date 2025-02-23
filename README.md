@@ -4,8 +4,16 @@
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=,,git,html,css,kotlin,java,gradle,firebase,,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,kotlin,java,gradle,firebase" />
+  </a>
+</p>
 
-[![Tools](https://skillicons.dev/icons?i=,,gitlab,idea,vscode,androidstudio,figma,notion,stackoverflow,,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,idea,vscode,androidstudio,figma,notion,stackoverflow" />
+  </a>
+</p>
 
 [![snake animation](https://github.com/zerlo0/zerlo0/blob/output/github-contribution-grid-snake2.svg)]
