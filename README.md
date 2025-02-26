@@ -9,6 +9,10 @@ My GitHub might be a bit quiet (college, a full-time job, and adulting leave lit
 - [Guardian](https://play.google.com/store/apps/details?id=br.com.intelbras.guardian)
 - [ISIC](https://play.google.com/store/apps/details?id=com.intelbras.isiclite)
 
+My CV: 
+
+[Curriculum - Ramon Ferreira.pdf](https://github.com/user-attachments/files/18992415/Curriculum.-.Ramon.Ferreira.pdf)
+
 <p align="center">
   <a href="https://giphy.com/stickers/pokemon-pixel-e7Pkc6DwN6IWHvvizL">
     <img
